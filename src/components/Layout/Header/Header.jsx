@@ -53,7 +53,7 @@ const logoutHandler = () => {
       <Drawer placement="left" onClose={onClose} isOpen={isOpen}>
         <DrawerOverlay />
         <DrawerContent>
-          <DrawerHeader borderBottomWidth={'1px'}>Learn Logic</DrawerHeader>
+          <DrawerHeader borderBottomWidth={'1px'}>LearnLogic</DrawerHeader>
 
           <DrawerBody>
             <VStack spacing={'4'} alignItems="flex-start">
